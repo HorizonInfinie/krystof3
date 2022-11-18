@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @krystof3
-- 👀 I’m interested in algorithms and programming in general
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m @Joachim
+- 👀 I’m interested in algorithms, scientific programming
 - 💞️ I’m looking to collaborate on any exciting project
-- 📫 Reach me by sending a mail to krys.rock@protonmail.com 
+- 📫 Reach me by sending a mail to krys.rock@proton.me
 
 <!---
 krystof3/krystof3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
